@@ -1,0 +1,20 @@
+.a {
+  color:black;
+  font-family:Montserrat;
+  font-weight:bold;
+  font-size:60px;
+  text-align:center;
+  margin-top: 0;
+  margin-bottom: 13px;
+}
+.b {
+  color:black;
+  font-family: montserrat;
+  text-align:center;
+  font-size:28px;
+  margin-top: 0;
+}
+.c {
+  cursor:pointer;
+  text-decoration: underline;
+}
